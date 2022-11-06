@@ -1,2 +1,2 @@
 # demopages
-demos
+Demos & tests
